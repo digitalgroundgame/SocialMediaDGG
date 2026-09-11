@@ -1,0 +1,18 @@
+{
+  "python_version": "3.12.3",
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "cuml": "26.08.00",
+  "cupy": "14.2.0",
+  "cupy_cuda_runtime_version": 12090,
+  "cupy_cuda_driver_version": 13020,
+  "gpu_name": "NVIDIA GeForce RTX 3090",
+  "gpu_compute_capability": "8.6",
+  "numpy": "2.4.6",
+  "pandas": "3.0.3",
+  "pyarrow": "23.0.1",
+  "matplotlib": "3.11.1",
+  "hdbscan": "unknown",
+  "sklearn": "1.9.1",
+  "scipy": "1.18.1",
+  "pynvml": "unknown"
+}
